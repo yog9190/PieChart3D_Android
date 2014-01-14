@@ -53,7 +53,7 @@ public class MainActivity extends Activity {
 					listSector.add(new Sector("sector8", 50, 0.5f, 0.8f, 0.9f));
 					objPieChart3DView.initializePieChart(listSector);
 					flag=true;
-					Log.d("app","false");
+					Log.d("app","falseYogesh");
 				}
 			}
 		});		
